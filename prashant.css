@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+#header{
+    background-color: red;
+
+
+}
